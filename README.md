@@ -74,12 +74,3 @@ This project is licensed under the MIT License.
 
 ---
 
-👉 Do you want me to also add a **`.gitignore` file example** (to exclude `.env` and `node_modules` automatically)?
-
-
-
-
-
-
-
-Ask ChatGPT
