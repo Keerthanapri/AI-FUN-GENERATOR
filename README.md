@@ -44,13 +44,19 @@ Click the button and enjoy a fresh laugh every time!
 ---
 
 ## ▶️ How to Run
+
 1. Clone this repository:
    
-   git clone https://github.com/your-username/joke-generator.git
+   git clone https://github.com/your-username/ai-fun-generator.git
+   
 2.Navigate to the project folder:
+
 cd joke-generator
+
 3.Install dependencies:
+
 npm install
+
 4.Create a .env file in the project root and add:
 
 OPENAI_API_KEY=your_api_key_here
