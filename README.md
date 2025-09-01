@@ -20,12 +20,18 @@ Click the button and enjoy a fresh laugh every time!
 ---
 
 ## 📂 Project Structure
-├── index.html # Main HTML file
-├── style.css # Styles for the app
-├── script.js # Logic for fetching jokes
-├── .env (ignored) # API key storage (not included in repo for security)
-├── node_modules/ # Installed dependencies (not included in repo)
-└── README.md # Project documentation
+# Main HTML file
+├── index.html
+# Styles for the app
+├── style.css 
+ # Logic for fetching jokes
+├── script.js 
+# API key storage (not included in repo for security)
+├── .env (ignored) 
+# Installed dependencies (not included in repo)
+├── node_modules
+# Project documentation
+└── README.md 
 
 ---
 
